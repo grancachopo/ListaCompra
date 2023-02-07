@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997687304412",
+    "project_id": "listacompracloudfirestore",
+    "storage_bucket": "listacompracloudfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997687304412:android:83bef6b37bb0adad2a5419",
+        "android_client_info": {
+          "package_name": "com.example.listacompra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997687304412-h9gbnleg801p1daaakti44t5p2p86o8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN3I98yxlCAblz-JCJHrcFD7IBB51w4sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997687304412-h9gbnleg801p1daaakti44t5p2p86o8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
